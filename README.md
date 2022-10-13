@@ -31,7 +31,7 @@
 <h1>Atividade</h1>
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/devjosecarlosteles/count.svg" />  
+  <img src="https://profile-counter.glitch.me/marcosbitencourtswt/count.svg" />  
 </p>
 </div>
 
