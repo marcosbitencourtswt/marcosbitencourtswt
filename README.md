@@ -2,9 +2,9 @@
 <div align="left">
   <a href="https://github.com/marcosbitencourtswt">
   
-<a href="https://www.github.com/devjosecarlosteles">
- <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=devjosecarlosteles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjosecarlosteles&layout=compact&langs_count=16&theme=dark"/>
+<a href="https://www.github.com/marcosbitencourtswt">
+ <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosbitencourtswt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbitencourtswt&layout=compact&langs_count=16&theme=dark"/>
 </div>
     
 </div>
