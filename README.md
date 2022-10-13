@@ -27,6 +27,14 @@
      <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
+<div>
+<h1>Atividade</h1>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/devjosecarlosteles/count.svg" />  
+</p>
+</div>
+
  
   ![Snake animation](https://github.com/marcosbitencourtswt/marcosbitencourtswt/blob/output/github-contribution-grid-snake.svg)
   
