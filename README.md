@@ -1,7 +1,7 @@
 ## Hi, I'm Marcos Bitencourt, development student!
 <div align="left">
   <a href="https://github.com/marcosbitencourtswt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosbitencourtswt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=marcosbitencourtswt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbitencourtswt&layout=compact&langs_count=16&theme=dark"/>
   
 ## My Skills
