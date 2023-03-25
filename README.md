@@ -1,4 +1,4 @@
-## Hi, I'm Marcos Bitencourt, development student!
+## Hi, I'm Marcos Bitencourt, front-end development!
 <div align="left">
   <a href="https://github.com/marcosbitencourtswt">
   
