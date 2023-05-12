@@ -1,4 +1,4 @@
-## Hi, I'm Marcos Bitencourt, front-end development!
+## Hi, I'm Marcos Bitencourt, Full-Stack development!
 <div align="left">
   <a href="https://github.com/marcosbitencourtswt">
   
